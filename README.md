@@ -60,15 +60,6 @@ System interface. Here you can:
 - **Delete Employees**: Remove employee records from the database.
 - **Capture Screenshots**: Use the screenshot functionality to capture current views of the system interface.
 
-## Contributing
-We welcome contributions to the Employee Management System. If you have suggestions for improvements or bug fixes, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Submit a pull request.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
@@ -78,7 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-For more information or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For more information or support, please contact [tahabelkacemi0@gmail.com](mailto:tahabelkacemi0@gmail.com).
 ```
 
 Ce modèle de `README.md` fournit une structure claire et professionnelle pour ton projet. Assure-toi de personnaliser les sections en fonction des détails spécifiques de ton projet, comme les instructions d'installation et les configurations spéciales nécessaires.
